@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"C Improved",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Javatar",
+		"Markdown Preview",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Pretty JSON",
+		"PyDOC",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-contrib-java",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-flake8",
+		"SublimeLinter-javac",
+		"SublimeREPL"
+	]
+}

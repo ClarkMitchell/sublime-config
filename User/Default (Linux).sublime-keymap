@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+shift+i"], "command": "toggle_overwrite" },
+    { "keys": ["ctrl+enter"], "command": "repl_transfer_current", "args": {"scope": "file"}}
+]

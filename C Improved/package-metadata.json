@@ -1,0 +1,1 @@
+{"sublime_text": "*", "description": "Improved tmLanguage syntax for C and friends, with a special support for Linux kernel source, CPython interpreter, etc.", "platforms": ["*"], "version": "1.3.3", "url": "https://github.com/abusalimov/SublimeCImproved", "dependencies": []}
